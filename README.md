@@ -38,4 +38,4 @@ Alex (Jiahao) Huo:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jiahaohuo/
 [email-shield]: https://img.shields.io/badge/-Gmail-black.svg?style=flat-square&logo=gmail&colorB=555
-[email-url]: jiahao.h@columbia.edu
+[email-url]: mailto:jiahao.h@columbia.edu
