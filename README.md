@@ -2,11 +2,14 @@
 The main goal of this project was to predict average response time of the Los Angeles Fire Department.
 
 # Methodogy
-* Imported external data on district information from [LAPD website](http://www.lapdonline.org/)
-* Engineered new features 
+* Imported external data on district information from [LA Times](https://www.latimes.com/) to get district information of LA
+* Engineered new features using regular expression, aggregation and etc.
 * Implemented regression XGBoost with selected 10 features
+  * 6 were original features, 4 were newly created
 * Tuned hyperparameter with parallel mapping (hyperparameter tuned: eta, nrounds, max_depth)
-* 10-fold cross validation in parallel
+* 10-fold cross validation in parallel to reduce overfitting
+* Postprocessed predictions by removing negative values
+* **Ranked 3rd/92 teams**
 
 # Further Details
 For more information: 
