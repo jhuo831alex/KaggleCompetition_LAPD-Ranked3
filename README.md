@@ -1,7 +1,7 @@
-# About the project
+# About the Project
 The main goal of this project was to predict average response time of the Los Angeles Fire Department.
 
-# Methodogy
+# Methodology
 * Imported external data on district information from [LA Times](https://www.latimes.com/) to get district information of LA
 * Engineered new features using regular expression, aggregation and etc.
 * Implemented regression XGBoost with selected 10 features
